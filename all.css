@@ -1,0 +1,10 @@
+html{
+    font-size: 14px;
+}
+
+.mail{
+    min-height: calc(100vh - (49px + 49px + 42px + 14px));
+}
+.NOTD{
+    border: none;
+}
